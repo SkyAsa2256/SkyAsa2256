@@ -1,5 +1,6 @@
-### 👋 Hi, I’m @SkyAsa2256
-### 👀 I’m interested in Kotlin, Java
+- 👋 Hi, I’m @SkyAsa2256
+### 👀 I’m interested in
+ * Kotlin, Java
 ### 🌱 I’m currently learning
  * Java, Kotlin
 - 💞️ I’m looking to collaborate on ...
